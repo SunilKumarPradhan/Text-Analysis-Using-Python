@@ -1,0 +1,5 @@
+nltk==3.6.4
+nltk_data==2023.5.23
+pydantic
+fastapi
+json
